@@ -23,22 +23,26 @@
 <br>
 
 - Qué es lo que más les complicó desarrollar
+
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis quis explicabo natus? Nemo fuga iure `codigo` veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
 
 <br>
 
 - Cómo lo solucionaron
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis quis explicabo natus? Nemo fuga iure `codigo` nobis pariatur veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis quis explicabo natus? Nemo fuga iure `codigo` nobis pariatur veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
 
 <br>
 
 - Cómo solucionan los errores que presentaban a lo largo del desarrollo
+
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis quis `codigo` explicabo natus? Nemo fuga iure nobis pariatur veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
 
 <br>
 
 - Qué es lo más importante que aprendieron con este proyecto
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis `codigo` quis explicabo natus? Nemo fuga iure nobis pariatur veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt officiis omnis `codigo` quis explicabo natus? Nemo fuga iure nobis pariatur veritatis assumenda, numquam labore, voluptatem vitae porro sit, obcaecati natus ipsum.
 
 <br>
 
