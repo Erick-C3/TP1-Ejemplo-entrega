@@ -1,3 +1,6 @@
+> En lo siguiente se muestra un posible ejemplo de readme para entrega del TP1, se agrego el uso de imagenes y codigo html para mejorar la estetica, además de otros detalles pero no hace falta usarlos si o si
+
+
 # _Nombre de aplicacion_
 
 <div style="display: grid; place-content: center;">
